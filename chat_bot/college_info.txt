@@ -1,0 +1,373 @@
+{
+    "college": {
+        "college name": "Srinivas University Institute of Engineering & Technology",
+        "college description": "A constituent college under Srinivas University, located at Srinivas University Campus, Mukka, Mangaluru. Our aim is to provide international standards in education and training, preparing graduates with knowledge and skills in emerging fields of engineering."
+    },
+    "admissions": {
+        "admission details": "For admissions, visit our website or contact the admissions office."
+    },
+
+    "Contact Info": {
+        "Contact details": "Chelairu Road, Srinivas Nagar, Mukka, Surathkal, Mangaluru, Karnataka 574146\n+91 824 2412382\n+91 824 2444891\nadmission@srinivasuniversity.edu.in"
+    },
+
+
+    "Dean": {
+        "Dean name": "Dr. Ramakrishna N. Hegde"
+    },
+
+    "About SUIET": {
+        "About Us": "Explore diverse engineering programs at the Institute of Engineering & Technology, designed for emerging fields. Experience world-class infrastructure with advanced labs and digital resources. Gain real-world skills through industry-relevant projects, preparing you for a successful career."
+    },
+
+    "Mission": {
+        "our Mission": "At Srinivas University Institute of Engineering & Technology, our mission is to inspire innovation, foster interdisciplinary collaboration, and empower graduates to lead advancements in engineering. With a focus on societal impact, we strive to cultivate a culture of ethical practices, sustainability, and social responsibility. Through transformative education and cutting-edge research, we aim to shape future leaders who drive positive change in the world."
+    },
+
+    "Vision": {
+        "our Vision": "To be a globally recognized center of excellence in engineering education, research, and innovation, producing skilled professionals who drive technological advancements and contribute to societal development."
+    },
+
+
+
+    "greetings": {
+        "hi": "Hello! How can I assist you?",
+        "hello": "Hi there! How can I help?",
+        "good morning": "Very good morning! Hope you have a great day!",
+        "good afternoon": "Good afternoon! How can I help?",
+        "good evening": "Good evening! How can I assist you?",
+        "good night": "Good night! Have a restful sleep!"
+    },
+    "bot_identity": {
+        "who_are_you": "I am your college chatbot, here to provide information about The Srinivas University Institute of Engineering & Technology.",
+        "what_is_your_name": "I am the SUIET College Chatbot!",
+        "where_are_you_from": "I am from The Srinivas University Institute of Engineering & Technology."
+    },
+    "politeness": {
+        "how_are_you": "I am just a bot, but I'm doing great! How about you?",
+        "thank_you": "You're welcome! Happy to help!",
+        "thanks": "No problem! Let me know if you need anything else!",
+        "sorry": "No worries! I'm here to assist you."
+    },
+    "small_talk": {
+        "what_are_you_doing": "I'm here waiting to answer your questions!",
+        "are_you_real": "I am a virtual assistant, but I can help you with real information.",
+        "tell_me_a_joke": "Why did the student bring a ladder to college? Because they wanted to go to high school!",
+        "do_you_like_me": "Of course! I'm here to assist you anytime."
+    },
+    "date_time": {
+        "what_day_is_it": "Today is [Insert Current Date].",
+        "what_time_is_it": "The current time is [Insert Current Time]."
+    },
+    "courses_offered": [
+        "B.Tech in Civil Engineering",
+        "B.Tech in Mechanical Engineering",
+        "B.Tech in Computer Science Engineering",
+        "B.Tech in Electronics & Communication Engineering",
+        "B.Tech in AI & Machine Learning",
+        "B.Tech in Cyber Security & Forensics"
+    ],
+
+    "Computer Science Engineering course_details": {
+        "B.Tech in Computer Science Engineering": {
+            "department": "CSE",
+            "duration": "4 Years",
+            "semesters": "8",
+            "total_lectures_hours": "2,880",
+            "credits": "192",
+            "industry_visits": "Included",
+            "soft_skills": "Included",
+            "certification": "Included",
+            "total_marks": "4800",
+            "hod": "Prof. Shifana Begum",
+            "job_opportunities": [
+                "Software Applications Developer",
+                "Computer Systems Analyst",
+                "Computer Systems Engineer",
+                "Web Developer (Full Stack)",
+                "Database Administrator",
+                "Network Systems Administrator",
+                "Software Test Engineer"
+            ],
+            "career_opportunities": [
+                "Opportunity to pursue Masters",
+                "Opportunity to appear for GATE",
+                "Opportunities in Engineering Services and other competitive Exams",
+                "Opportunities for Innovation-driven Entrepreneurship"
+            ],
+            "eligibility": "Pass in 10+2/12th Standard with a minimum of 50% marks (40% for candidates belonging to SC/ST category)",
+            "lateral_entry": "Candidates who have successfully completed a three-year diploma in Engineering can apply for lateral entry into the second year of the B.Tech. program."
+        }
+    },
+    "Artificial Intelligence and Machine Learning course_details": {
+        "B.Tech in Artificial Intelligence and Machine Learning": {
+            "department": "AIML",
+            "duration": "4 Years",
+            "semesters": "8",
+            "total_lectures_hours": "2,880",
+            "credits": "192",
+            "industry_visits": "Included",
+            "soft_skills": "Included",
+            "certification": "Included",
+            "total_marks": "4800",
+            "hod": "Prof. Thanmayee",
+            "job_opportunities": [
+                "Data Scientist",
+                "Machine Learning Engineer",
+                "AI Research Scientist",
+                "Robotics Engineer",
+                "Natural Language Processing (NLP) Engineer",
+                "Computer Vision Engineer",
+                "AI Consultant",
+                "AI Ethics Specialist"
+            ],
+            "career_opportunities": [
+                "Further Opportunity to pursue M.Tech",
+                "Opportunity to appear for GATE/Engineering Services and other competitive Exams",
+                "Opportunities for Innovation-driven Entrepreneurship"
+            ],
+            "detailed_overview": "The B.Tech. in Artificial Intelligence and Machine Learning program is designed to nurture and develop students as aspiring global engineers in the rapidly evolving field of AI and ML. This four-year graduate program aims to equip students with the necessary knowledge, skills, and attitude to excel as competent global business leaders and entrepreneurs in the dynamic realm of artificial intelligence. With a strong focus on technical proficiency and a sense of responsibility towards the community, the program prepares students to become valuable contributors to the technological sector, driving innovation and shaping the future of AI and ML.",
+            "eligibility": "Pass in 10+2/12th Standard with a minimum of 50% marks (40% for candidates belonging to SC/ST category)",
+            "lateral_entry": "Candidates who have successfully completed a three-year diploma in Engineering can apply for lateral entry into the second year of the B.Tech. program. Admission to the second year is subject to the Srinivas University selection process for engineering programs."
+        }
+    },
+
+    "Electronics and Communication Engineering course_details": {
+        "B.Tech in Electronics and Communication Engineering": {
+            "department": "ECE",
+            "duration": "4 Years",
+            "semesters": "8",
+            "total_lectures_hours": "2,880",
+            "credits": "192",
+            "industry_visits": "Included",
+            "soft_skills": "Included",
+            "certification": "Included",
+            "total_marks": "4800",
+            "hod": "Dr. Naveen Kumar J.R.",
+            "job_opportunities": [
+                "BSNL JTO, BSNL TTA, MTNL exams",
+                "ISRO",
+                "DRDO",
+                "BARC",
+                "NTPC",
+                "NIC",
+                "SAIL",
+                "BHEL",
+                "BEL",
+                "Banking sector (IBPS PO, Special IT roles)",
+                "IT sector opportunities for ECE engineers",
+                "Core companies such as Havel’s India Limited"
+            ],
+            "career_opportunities": [
+                "Consumers need new devices and gadgets to support them in their day-to-day lives",
+                "Opportunities for Innovation-driven Entrepreneurship"
+            ],
+            "detailed_overview": "The goal of the Department of Electronics and Communication Engineering is to provide synergetic education to produce competent and resourceful young E&C engineers with high technical knowledge and good practical skills who excel in a wide variety of job profiles. To achieve this, the curriculum provides a strong foundation in both the technological and theoretical aspects of E&C engineering. It also provides abundant opportunities for students to work on self-designed mini-projects, develop communication skills, explore internship opportunities in industry, and take part in national and international conferences and circuit and software design contests. The E&C department is committed to promoting research, industrial interaction, and the multi-dimensional development of the students through both theoretical and practical exposure. The department has established the Analog and Digital Electronics Lab, Microprocessor and Microcontrollers Lab, Communication Lab, Digital Signal Processing Lab, Power Electronics Lab, and HDL and Very Large Scale Integration Lab—HDL laboratories for the regular academic works and also for research activities. The department has a comprehensive curriculum on topics related to all aspects of electronics and communication, with an emphasis on practical learning. The course structure is in line with the latest advances in technology, equipping the students with the latest developments in electronics and communication engineering. The department has a dedicated forum, NICSA, which aims at igniting their talents in technical and cultural areas by conducting competitions, workshops, technical talks, seminars, and quizzes. The department has an excellent placement track record, and various companies offer attractive salary packages.",
+            "major_recruiters": [
+                "Infosys",
+                "TCS",
+                "Wipro",
+                "Cognitive Clouds",
+                "Glowtouch",
+                "Qspiders",
+                "Elcamino Software",
+                "Pentagon Space",
+                "Winman Software"
+            ],
+            "eligibility": "Pass in 10+2/12th Standard with a minimum of 50% marks (40% for candidates belonging to SC/ST category)",
+            "lateral_entry": "Candidates who have successfully completed a three-year diploma in Engineering can apply for lateral entry into the second year of the B.Tech. program. Admission to the second year is subject to the Srinivas University selection process for engineering programs."
+        }
+    },
+
+    "Mechanical Engineering course_details": {
+        "B.Tech in Mechanical Engineering": {
+            "department": "Mechanical",
+            "duration": "4 Years",
+            "semesters": "8",
+            "total_lectures_hours": "2,880",
+            "credits": "192",
+            "industry_visits": "Included",
+            "soft_skills": "Included",
+            "certification": "Included",
+            "total_marks": "4800",
+            "hod": "Prof. Vishwas C Shetty",
+            "job_opportunities": [
+                "Defence Engineer",
+                "Automation Engineer",
+                "Product Design Engineer",
+                "Production Engineer",
+                "Maintenance Engineer",
+                "Quality Assurance Engineer/Senior Quality Engineer",
+                "Sales and Marketing Engineer/Manager",
+                "Research and Development Engineer"
+            ],
+            "career_opportunities": [
+                "Industrial Automation",
+                "Robotics",
+                "Mechatronics Systems",
+                "Automotive Systems",
+                "Government Agencies",
+                "Research and Development",
+                "Opportunities for Innovation-driven Entrepreneurship"
+            ],
+            "detailed_overview": "B.Tech. in Mechanical Engineering programme nurtures and develops students as young global Engineers. The programme lays emphasis on preparing students to become competent global business leaders and entrepreneurs by building their capabilities, knowledge, skills, and attitude. B.Tech. in Mechanical Engineering is a four-year graduate programme. The goal of the B.Tech. programme is to enable students to become technically competent entrepreneurs in the vast technological sector and to prepare students to become responsible and contributing members of the community.",
+            "eligibility": "Pass in 10+2/12th Standard with 45% marks (40% for candidates belonging to SC/ST category).",
+            "lateral_entry": "Candidates who have successfully completed a three-year diploma in Engineering are eligible to apply for lateral entry into the second year of the B.Tech. program. Candidates will be admitted to the second year of the program only after appearing in the Srinivas University selection process for the engineering program."
+        }
+    },
+
+    "Civil Engineering course_details": {
+        "B.Tech in Civil Engineering": {
+            "department": "Civil",
+            "duration": "4 Years",
+            "semesters": "8",
+            "total_lectures_hours": "2,880",
+            "credits": "192",
+            "industry_visits": "Included",
+            "soft_skills": "Included",
+            "certification": "Included",
+            "total_marks": "4800",
+            "hod": "Prof. Shrinath Rao K",
+            "detailed_overview": "The B.Tech. in Civil Engineering program is designed to nurture and develop students into adept global engineers. The curriculum places a strong emphasis on preparing individuals to emerge as competent leaders and entrepreneurs with a focus on building their capabilities, knowledge, skills, and a positive attitude. This four-year graduate program aims to equip students with the technical prowess required to navigate the expansive technological sector and instill a sense of responsibility as contributing members of the community.",
+            "eligibility": "Successful completion of 10+2/12th Standard with 45% marks (40% for SC/ST candidates).",
+            "lateral_entry": "Candidates with a three-year diploma in Engineering are eligible to apply for lateral entry into the second year of the B.Tech. in Civil Engineering program. Admission to the second year is subject to successfully completing the Srinivas University selection process for the engineering program."
+        }
+    },
+
+    "Cyber Security and Cyber Forensics course_details": {
+        "B.Tech in Cyber Security and Cyber Forensics": {
+            "department": "CS & CF",
+            "duration": "4 Years",
+            "semesters": "8",
+            "total_lectures_hours": "2,880",
+            "credits": "192",
+            "industry_visits": "Included",
+            "soft_skills": "Included",
+            "certification": "Included",
+            "total_marks": "4800",
+            "hod": "Dr. Krishna Prasad K",
+            "job_opportunities": [
+                "Information Security Manager",
+                "Security Consultant",
+                "Security Programme Specialist"
+            ],
+            "career_opportunities": [
+                "Digital Forensics Investigator",
+                "Malware Analyst",
+                "Security Analyst",
+                "Threat Hunting Investigator",
+                "Incident Responder",
+                "(SOC) Security Operations Center Analyst"
+            ],
+            "detailed_overview": "Cybercrime in a short span of a decade has become a top-level worldwide security threat. Guarding data and reducing the impact of network security breaches are key challenges for cyber security experts. The present course offered by Srinivas University will give students a solid foundation in theoretical and practical aspects of Computer Science, network security, software security, information security, Computer Forensics, system security measures, penetration testing, and vulnerability assessment.",
+            "eligibility": "Passed in PUC/Higher Secondary Examination (10+2 pattern) or appearing in the current academic year with Physics, Chemistry, and Mathematics as major subjects from any state board within India, CBSE, ICSE, with a minimum 45% aggregate for General and 40% aggregate for SC/ST in PCM. Admission requires a valid score in SUAT."
+        }
+    },
+
+    "All Departments": {
+        "Departments": [
+            {
+                "name": "Department of Computer Science and Engineering",
+                "hod": "Prof. Shifana Begum"
+            },
+            {
+                "name": "Department of Artificial Intelligence and Machine Learning",
+                "hod": "Prof. Thanmayee"
+            },
+            {
+                "name": "Department of Mechanical Engineering",
+                "hod": "Prof. Vishwas C Shetty"
+            },
+            {
+                "name": "Department of Electronics and Communication Engineering",
+                "hod": "Dr. Naveen Kumar J.R."
+            },
+            {
+                "name": "Department of Civil Engineering",
+                "hod": "Prof. Shrinath Rao K"
+            },
+            {
+                "name": "Department of Physics",
+                "hod": "Dr. Santhosh D Shenoy"
+            },
+            {
+                "name": "Department of Mathematics",
+                "hod": "Dr. Asha Saraswathi B"
+            },
+            {
+                "name": "Department of Humanities",
+                "hod": "Prof. Rohan Fernandez"
+            }
+        ]
+    },
+
+    
+    "CSE Faculties": {
+        "Computer Science & Engineering Faculties": [
+            {"name": "Prof. Shifana Begum", "designation": "Associate Professor and HoD CSC"},
+            {"name": "Dr. Janapati Venkata Krishna", "designation": "Associate Professor"},
+            {"name": "Prof. Thanmayee", "designation": "Asst. Professor & Unit Head CTDS"},
+            {"name": "Ms. Swarna H R", "designation": "Assistant Professor"},
+            {"name": "Prof. Varsha G Bangera", "designation": "Assistant Professor"},
+            {"name": "Ms. Swathi R", "designation": "Assistant Professor"},
+            {"name": "Ms. Rameesa K", "designation": "Assistant Professor"},
+            {"name": "Mrs. Mamatha S J", "designation": "Assistant Professor"},
+            {"name": "Mrs. Amrita Arjun Kindalkar", "designation": "Assistant Professor"},
+            {"name": "Mr. Mahesh Kumar V B", "designation": "Assistant Professor"},
+            {"name": "Vyshak R", "designation": "Assistant Professor"},
+            {"name": "Medida Anupama", "designation": "Assistant Professor"},
+            {"name": "Ruksana Banu", "designation": "Assistant Professor"},
+            {"name": "Veeda Saldanha", "designation": "Assistant Professor"}
+        ]
+    },
+
+    "Mechanical Faculties": {
+        "Mechanical Engineering Faculties": [
+            {"name": "Prof. Vishwas C Shetty", "designation": "Associate Professor and HoD Mechanical"},
+            {"name": "Prof. Shankarappa Kalgudi", "designation": "Asst. Professor"},
+            {"name": "Mr. Raghavendra Baliga", "designation": "Assistant Professor"},
+            {"name": "Mr. Thrivikram Prabhu", "designation": "Assistant Professor"},
+            {"name": "Mr. Vuppu Sai Krishna Prasad", "designation": "Assistant Professor"}
+        ]
+    },
+
+    "Civil Faculties": {
+        "Civil Engineering Faculties": [
+            {"name": "Prof. Shilpa S", "designation": "Assistant Professor"}
+        ]
+    },
+
+    "Electronics & Communication Faculties": {
+        "Electronics & Communication Engineering Faculties": [
+            {"name": "Dr. Naveen Kumar J R", "designation": "Associate Professor & HoD"},
+            {"name": "Prof. Krishna Kaushik P", "designation": "Assistant Professor"},
+            {"name": "Prof. Anantharama H", "designation": "Assistant Professor"},
+            {"name": "Mrs. Chaithra", "designation": "Assistant Professor"},
+            {"name": "Mrs. Vidya D", "designation": "Assistant Professor"},
+            {"name": "Mrs. Shwetha S R", "designation": "Assistant Professor"}
+        ]
+    },
+
+    "Physics Faculties": {
+        "Physics Faculties": [
+            {"name": "Dr. Santhosh D Shenoy", "designation": "Associate Professor & HoD"},
+            {"name": "Dr. Navin N Bappalige", "designation": "Professor"},
+            {"name": "Shobha Kumari A", "designation": "Assistant Professor"}
+        ]
+    },
+
+    "Mathematics Faculties": {
+        "Mathematics Faculties": [
+            {"name": "Dr. Asha Saraswathi B", "designation": "Associate Professor & HoD"},
+            {"name": "Dr. Prasad H M", "designation": "Assistant Professor"},
+            {"name": "Ms. Shobitha S", "designation": "Assistant Professor"},
+            {"name": "Ms. Shalini C", "designation": "Assistant Professor"}
+        ]
+    },
+
+    "Humanities Faculties": {
+        "Humanities Faculties": [
+            {"name": "Prof. Rohan Fernandez", "designation": "Associate Professor"}
+        ]
+    }   
+}
